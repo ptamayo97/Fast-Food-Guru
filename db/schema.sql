@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS foodGuru_db;
+
+CREATE DATABASE foodGuru_db;
